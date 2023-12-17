@@ -1071,15 +1071,10 @@ header {
     .modal {
         width: 408px;
         min-height: 584px;
-        top: 28%;
     }
 }
 
-@media screen and (min-width: 1158px) {
-    .modal {
-        top: 26%;
-    }
-
+@media screen and (min-width: 1158px) {s
     .contact-form-input {
         padding-left: 38px;
     }
